@@ -37,10 +37,10 @@ Apertum est une interface web moderne développée pour les chercheurs souhaitan
 
 ```bash
 # Cloner le repository
-git clone https://github.com/[votre-username]/interface-chercheur.git
+git clone https://github.com/pierrebriac/maquette-apertum-chercheur.git
 
 # Naviguer dans le projet
-cd interface-chercheur/apertum-platform
+cd maquette-apertum-chercheur/apertum-platform
 
 # Installer les dépendances
 npm install
